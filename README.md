@@ -30,15 +30,9 @@ Main Menu and Game Screenshots:
 
 Key Functionalities:
 
-New Game: Start a new game with customizable board size.
-High Scores: View the high scores with persistent storage.
-Exit: Exit the game from the main menu.
-
-Setup Instructions:
-
-Ensure you have a Java development environment set up.
-Clone the repository and navigate to the project directory.
-Compile and run the main application to start the game.
+* New Game: Start a new game with customizable board size.
+* High Scores: View the high scores with persistent storage.
+* Exit: Exit the game from the main menu.
 
 Game Controls:
 
